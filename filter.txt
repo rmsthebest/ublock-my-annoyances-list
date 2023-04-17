@@ -1,0 +1,16 @@
+! 2023-03-20 https://old.reddit.com
+old.reddit.com##.commentsignupbar.infobar
+
+! 2023-04-01 https://www.dotabuff.com
+www.dotabuff.com##.engage-unit-wrapper.iPXiiZ.sc-1i7jkv7-1
+www.dotabuff.com##.skin-header > .multishot
+
+! 2023-04-02 https://www.goodreads.com
+www.goodreads.com##div.BookActions__button
+
+! 2023-04-17 https://www.youtube.com
+www.youtube.com##.ytd-player.style-scope.ytp-cards-teaser
+www.youtube.com##.ytd-player.style-scope.ytp-cards-button-icon-default > .ytd-player.style-scope.ytp-cards-button-icon
+www.youtube.com##.ytp-cards-button-icon-default > .ytp-cards-button-icon
+www.youtube.com##.ytp-cards-teaser-text
+
