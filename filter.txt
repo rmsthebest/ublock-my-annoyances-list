@@ -16,4 +16,18 @@ www.youtube.com##.ytd-player.style-scope.ytp-cards-button-icon-default > .ytd-pl
 www.youtube.com##.ytp-cards-button-icon-default > .ytp-cards-button-icon
 www.youtube.com##.ytp-cards-teaser-text
 ||i.ytimg.com/an/$image
+www.youtube.com##.ytp-watch-later-icon
 
+! 2023-04-27 https://www.foodora.se
+www.foodora.se##.partnership-ads--desktop.partnership-ads
+
+! 2023-05-02 https://www.goodreads.com
+www.goodreads.com##.modal--centered.modal--overlay.modal
+
+
+! 2023-06-01 https://www.svt.se
+www.svt.se##.Share__root___u0qGO
+
+! 2023-06-03 https://github.com
+github.com###sponsor-button
+github.com##.flex-items-center.flex-justify-between.d-flex.my-3.p-3.Box
