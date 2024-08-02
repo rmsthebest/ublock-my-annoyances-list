@@ -17,6 +17,8 @@ www.youtube.com##.ytp-cards-button-icon-default > .ytp-cards-button-icon
 www.youtube.com##.ytp-cards-teaser-text
 ||i.ytimg.com/an/$image
 www.youtube.com##.ytp-watch-later-icon
+! 21 Jun 2024 https://www.youtube.com
+www.youtube.com###clarify-box > .ytd-watch-flexy.style-scope
 
 ! 2023-04-27 https://www.foodora.se
 www.foodora.se##.partnership-ads--desktop.partnership-ads
